@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Press Start 2P', cursive;
+    background: #212121;
+}
+
 .center{
     height: 100dvh;
     display: flex;
@@ -12,5 +17,5 @@
 }
 
 h1{
-    color: #057793;
+    color: #33FD00;
 }
